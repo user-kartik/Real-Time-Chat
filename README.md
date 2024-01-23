@@ -6,6 +6,6 @@ Basic real time chat application with;
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
 
-### Bilal Cagiran  | [E-Mail](mailto:kartikbhat798@gmail.com) | [Github](https://github.com/kartik-cyber/)  
+###  | [E-Mail](mailto:kartikbhat798@gmail.com) | [Github](https://github.com/kartik-cyber/)  
 
 
